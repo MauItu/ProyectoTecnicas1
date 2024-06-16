@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: ca4d710e4ba8759438f29afc6023f583
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7154257116173901272
+    second: Mapa_Interiores_Nether-removebg-preview_0
+  - first:
+      213: 1277579120110340011
+    second: Mapa_Interiores_Nether-removebg-preview_1
+  - first:
+      213: 1843027610644669669
+    second: Mapa_Interiores_Nether-removebg-preview_2
+  - first:
+      213: 674895635345465763
+    second: Mapa_Interiores_Nether-removebg-preview_3
+  - first:
+      213: -4139630812047675871
+    second: Mapa_Interiores_Nether-removebg-preview_4
+  - first:
+      213: 5957028414174878687
+    second: Mapa_Interiores_Nether-removebg-preview_5
+  - first:
+      213: 3949928514574959219
+    second: Mapa_Interiores_Nether-removebg-preview_6
+  - first:
+      213: -2728321947452827425
+    second: Mapa_Interiores_Nether-removebg-preview_7
+  - first:
+      213: 2643769363482776998
+    second: Mapa_Interiores_Nether-removebg-preview_8
+  - first:
+      213: -5003175036694791111
+    second: Mapa_Interiores_Nether-removebg-preview_9
+  - first:
+      213: -8525021270592854067
+    second: Mapa_Interiores_Nether-removebg-preview_10
+  - first:
+      213: -3586545152581554123
+    second: Mapa_Interiores_Nether-removebg-preview_11
+  - first:
+      213: 2155779872575340669
+    second: a
+  - first:
+      213: -2853611257437969865
+    second: Mapa_Interiores_Nether-removebg-preview_13
+  - first:
+      213: -8365132285714129900
+    second: Mapa_Interiores_Nether-removebg-preview_14
+  - first:
+      213: 2092931575751030652
+    second: Mapa_Interiores_Nether-removebg-preview_15
+  - first:
+      213: 4798839935291704553
+    second: Mapa_Interiores_Nether-removebg-preview_16
+  - first:
+      213: 5329393323594659883
+    second: Mapa_Interiores_Nether-removebg-preview_17
+  - first:
+      213: 4255590640359836075
+    second: Mapa_Interiores_Nether-removebg-preview_18
+  - first:
+      213: -3864758667226265833
+    second: Mapa_Interiores_Nether-removebg-preview_19
+  - first:
+      213: -3912187862053117455
+    second: Mapa_Interiores_Nether-removebg-preview_20
+  - first:
+      213: 5479376713751077181
+    second: Mapa_Interiores_Nether-removebg-preview_21
+  - first:
+      213: -8057259079996949318
+    second: Mapa_Interiores_Nether-removebg-preview_22
+  - first:
+      213: -3252330214566811827
+    second: Mapa_Interiores_Nether-removebg-preview_23
+  - first:
+      213: 3158435882820654713
+    second: Mapa_Interiores_Nether-removebg-preview_24
+  - first:
+      213: 8589561604690932042
+    second: Mapa_Interiores_Nether-removebg-preview_25
+  - first:
+      213: 73464042480634443
+    second: Mapa_Interiores_Nether-removebg-preview_26
+  - first:
+      213: 4621038973599325576
+    second: Mapa_Interiores_Nether-removebg-preview_27
+  - first:
+      213: 4831198770487052982
+    second: Mapa_Interiores_Nether-removebg-preview_28
+  - first:
+      213: 656975765447450529
+    second: Mapa_Interiores_Nether-removebg-preview_29
+  - first:
+      213: -6158307808847533940
+    second: Mapa_Interiores_Nether-removebg-preview_30
+  - first:
+      213: -4298184435408121547
+    second: Mapa_Interiores_Nether-removebg-preview_31
+  - first:
+      213: 3680059293397450705
+    second: Mapa_Interiores_Nether-removebg-preview_32
+  - first:
+      213: 2807139519512720044
+    second: Mapa_Interiores_Nether-removebg-preview_33
+  - first:
+      213: 1957601838117606479
+    second: Mapa_Interiores_Nether-removebg-preview_34
+  - first:
+      213: -8341609917667553933
+    second: Mapa_Interiores_Nether-removebg-preview_35
+  - first:
+      213: 5159500266287880578
+    second: Mapa_Interiores_Nether-removebg-preview_36
+  - first:
+      213: -8218348832231054227
+    second: Mapa_Interiores_Nether-removebg-preview_37
+  - first:
+      213: 4234570378048761507
+    second: Mapa_Interiores_Nether-removebg-preview_38
+  - first:
+      213: -577591564218808238
+    second: Mapa_Interiores_Nether-removebg-preview_39
+  - first:
+      213: -27872256183271560
+    second: Mapa_Interiores_Nether-removebg-preview_40
+  - first:
+      213: -2736794150252235898
+    second: Mapa_Interiores_Nether-removebg-preview_41
+  - first:
+      213: -5975390817253361641
+    second: Mapa_Interiores_Nether-removebg-preview_42
+  - first:
+      213: -3200009796147502957
+    second: Mapa_Interiores_Nether-removebg-preview_43
+  - first:
+      213: -5764114512520584733
+    second: Mapa_Interiores_Nether-removebg-preview_44
+  - first:
+      213: -512966603729910896
+    second: Mapa_Interiores_Nether-removebg-preview_45
+  - first:
+      213: -3996890495494674280
+    second: Mapa_Interiores_Nether-removebg-preview_46
+  - first:
+      213: -6553167688165316803
+    second: Mapa_Interiores_Nether-removebg-preview_47
+  - first:
+      213: 2231869864700203539
+    second: Mapa_Interiores_Nether-removebg-preview_48
+  - first:
+      213: 8683456138955203527
+    second: Mapa_Interiores_Nether-removebg-preview_49
+  - first:
+      213: -4078344694672545677
+    second: Mapa_Interiores_Nether-removebg-preview_50
+  - first:
+      213: 8235929779007449940
+    second: Mapa_Interiores_Nether-removebg-preview_51
+  - first:
+      213: 3628032156721658135
+    second: Mapa_Interiores_Nether-removebg-preview_52
+  - first:
+      213: 5346709031216715710
+    second: Mapa_Interiores_Nether-removebg-preview_53
+  - first:
+      213: -8586158974840517085
+    second: Mapa_Interiores_Nether-removebg-preview_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 241
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd1b5931f6094360800000000000000
+      internalID: 7154257116173901272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 241
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba702aad07fdab110800000000000000
+      internalID: 1277579120110340011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 241
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e466bbd8dfb39910800000000000000
+      internalID: 1843027610644669669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 241
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a16a3d2106bd5900800000000000000
+      internalID: 674895635345465763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 241
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ee2aa85b31d86c0800000000000000
+      internalID: -4139630812047675871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 241
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb5dcfe7cd9ba250800000000000000
+      internalID: 5957028414174878687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 241
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3724d6f6e07f0d630800000000000000
+      internalID: 3949928514574959219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 241
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd81c21e4ad032ad0800000000000000
+      internalID: -2728321947452827425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 241
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a593729a3e80b420800000000000000
+      internalID: 2643769363482776998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 241
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c74b4efc6219ab0800000000000000
+      internalID: -5003175036694791111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 241
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e9a7625a01b980800000000000000
+      internalID: -8525021270592854067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303a71af280a3ec0800000000000000
+      internalID: -3586545152581554123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704ace4f5edaed10800000000000000
+      internalID: 2155779872575340669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732aa513eafe568d0800000000000000
+      internalID: -2853611257437969865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c9bdaa18419eb80800000000000000
+      internalID: -8365132285714129900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77b6d7ed269b0d10800000000000000
+      internalID: 2092931575751030652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4450dee77e89240800000000000000
+      internalID: 4798839935291704553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28b231ddfec5f940800000000000000
+      internalID: 5329393323594659883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9002ce325ee0b30800000000000000
+      internalID: 4255590640359836075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717cd51f77e9d5ac0800000000000000
+      internalID: -3864758667226265833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1aabbfddd15b9c0800000000000000
+      internalID: -3912187862053117455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d312ea51718aa0c40800000000000000
+      internalID: 5479376713751077181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcbd715e8dde2090800000000000000
+      internalID: -8057259079996949318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47a974c6e66dd2d0800000000000000
+      internalID: -3252330214566811827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9765f5983b405db20800000000000000
+      internalID: 3158435882820654713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41ffef15c0443770800000000000000
+      internalID: 8589561604690932042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a82db482ff40100800000000000000
+      internalID: 73464042480634443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d9f92967a312040800000000000000
+      internalID: 4621038973599325576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba4f2a5faddb0340800000000000000
+      internalID: 4831198770487052982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af19855afb0e1900800000000000000
+      internalID: 656975765447450529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88e02c0dab498aa0800000000000000
+      internalID: -6158307808847533940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531d26c5708c954c0800000000000000
+      internalID: -4298184435408121547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df7457fd62321330800000000000000
+      internalID: 3680059293397450705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca234872586f4f620800000000000000
+      internalID: 2807139519512720044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44d6acff7cca2b10800000000000000
+      internalID: 1957601838117606479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dcc82c9f5ac3c80800000000000000
+      internalID: -8341609917667553933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2895f9ee72a3a9740800000000000000
+      internalID: 5159500266287880578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d642f9e974f82fd80800000000000000
+      internalID: -8218348832231054227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeecf7b25734ca30800000000000000
+      internalID: 4234570378048761507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258c975588bfbf7f0800000000000000
+      internalID: -577591564218808238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f7b17a45afc9ff0800000000000000
+      internalID: -27872256183271560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68339d27834f40ad0800000000000000
+      internalID: -2736794150252235898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7187b7fe5b5231da0800000000000000
+      internalID: -5975390817253361641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390abd67b084793d0800000000000000
+      internalID: -3200009796147502957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e16984f360c100b0800000000000000
+      internalID: -5764114512520584733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0934a0b779391e8f0800000000000000
+      internalID: -512966603729910896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a7e155413888c0800000000000000
+      internalID: -3996890495494674280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37a65135b87e05a0800000000000000
+      internalID: -6553167688165316803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312da5621d139fe10800000000000000
+      internalID: 2231869864700203539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c32c19f955d18870800000000000000
+      internalID: 8683456138955203527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378a172bb1fc667c0800000000000000
+      internalID: -4078344694672545677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45becc88f76eb4270800000000000000
+      internalID: 8235929779007449940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b61f360c595230800000000000000
+      internalID: 3628032156721658135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb79b0b2983533a40800000000000000
+      internalID: 5346709031216715710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapa_Interiores_Nether-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e499f57e5d7d880800000000000000
+      internalID: -8586158974840517085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

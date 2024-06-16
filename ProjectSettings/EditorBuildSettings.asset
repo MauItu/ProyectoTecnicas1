@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Usuario/MenuP.unity
+    guid: 0ce32b2add6660f42beb3c6f0fe1ee05
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Usuario/Introduccion.unity
+    guid: f74187684769bb9498710ebdbe5c5412
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Usuario/Creditos.unity
+    guid: 868e92efa80c9154085f8c0d4c2136a4
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Escenas preguntas/Pregunta1.unity
+    guid: f3eae5f9c5ae8c349923bec8f8d0c53c
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Escenas preguntas/Pregunta2.unity
+    guid: 4f5eb84fb3b985c459c02710dca3b0ba
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Escenas preguntas/Pregunta3.unity
+    guid: b872036a81e119d4ca07cefb5c707b1b
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Escenas preguntas/Pregunta4.unity
+    guid: 8173873fcd3119348871411bd50aac16
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Escenas preguntas/Pregunta5.unity
+    guid: 8cb520a0d6d921f43bdac53f14ee5e56
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Finales/FinalBueno.unity
+    guid: e1439150bbdfa7e42b63396289161e6c
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Finales/FinalMalo.unity
+    guid: 3935fac5ee95e46499158271f1dfe4d0
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Finales/FinalMalo1.unity
+    guid: cd4d5adb67bfb0e4d9611a6723ba50f8
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Explicaciones/Expli1 1.unity
+    guid: 80a0e5b3d372ebc4a9f0727bb7cf4269
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Explicaciones/Expli1 2.unity
+    guid: bf4ce5b90133c0848911e664631bc7a0
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Explicaciones/Expli1 3.unity
+    guid: 5602fda7b0585ab4f9d6e031896661cb
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Explicaciones/Expli1 4.unity
+    guid: dadb6a279471fd44d92f1cc508303629
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Explicaciones/Expli1 5.unity
+    guid: bb4340cfd6def0f4d8dd66f209dd070d
+  - enabled: 1
+    path: Assets/proyectoUni/Escenas/Usuario/Name.unity
+    guid: 4d85ec523bca8f34ab31c0aa31e89122
+  m_configObjects: {}

@@ -1,0 +1,288 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.16f1 (5fa502fca597) revision 6268162'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22621.2715; Version 2009; 64bit' Language: 'es' Physical Memory: 16262 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/lapto/ProyectoUniSem2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49680
+Successfully changed project path to: C:/Users/lapto/ProyectoUniSem2
+C:/Users/lapto/ProyectoUniSem2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 208.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.16f1 (5fa502fca597)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/lapto/ProyectoUniSem2/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX130 (ID=0x174d)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   30.0.15.1169
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56896
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003881 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 378.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.421 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3422ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (1420ms)
+			LoadAssemblies (107ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (309ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (98ms)
+			SetupLoadedEditorAssemblies (916ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (379ms)
+				BeforeProcessingInitializeOnLoad (5ms)
+				ProcessInitializeOnLoadAttributes (391ms)
+				ProcessInitializeOnLoadMethodAttributes (122ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.024410 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\lapto\ProyectoUniSem2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\lapto\ProyectoUniSem2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 237.15 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.269 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3271ms)
+		BeginReloadAssembly (370ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (2765ms)
+			LoadAssemblies (239ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (787ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (95ms)
+			SetupLoadedEditorAssemblies (1380ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (237ms)
+				BeforeProcessingInitializeOnLoad (286ms)
+				ProcessInitializeOnLoadAttributes (789ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 2.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.5 MB.
+System memory in use after: 140.6 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4185.
+Total: 21.040700 ms (FindLiveObjects: 1.158700 ms CreateObjectMapping: 0.852100 ms MarkObjects: 18.449100 ms  DeleteObjects: 0.575900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 13.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.7 MB.
+System memory in use after: 65.8 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4185.
+Total: 10.976100 ms (FindLiveObjects: 0.651200 ms CreateObjectMapping: 0.460900 ms MarkObjects: 9.616100 ms  DeleteObjects: 0.244900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/proyectoUni/Audios/Bad-ending.mp3
+  artifactKey: Guid(397343273c977da4da7bcd7112890f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Audios/Bad-ending.mp3 using Guid(397343273c977da4da7bcd7112890f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ebbe855e7c5023ebfc87a29b9a0ee6') in 0.658488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001043 seconds.
+  path: Assets/proyectoUni/Audios/Intro1.mp3
+  artifactKey: Guid(32c0e70e13ec52c42af3263e7d6526dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Audios/Intro1.mp3 using Guid(32c0e70e13ec52c42af3263e7d6526dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ee360d0d7bb7d76bb80a302fab00a5') in 0.064058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/proyectoUni/Audios/FinalBueno.mp3
+  artifactKey: Guid(318794f58bd1e0042a02ca290bebfb0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Audios/FinalBueno.mp3 using Guid(318794f58bd1e0042a02ca290bebfb0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24724451acef93c081ae9315681fe31d') in 0.043802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000561 seconds.
+  path: Assets/proyectoUni/Audios/Menu.mp3
+  artifactKey: Guid(5048265b87d347d4cb55bc35939d085b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Audios/Menu.mp3 using Guid(5048265b87d347d4cb55bc35939d085b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c98adbb38b45373b3a6711b335b4aa7b') in 0.028961 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000584 seconds.
+  path: Assets/proyectoUni/Audios/Intro.mp3
+  artifactKey: Guid(e110baf4fd20c70459a9262ded2c25eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Audios/Intro.mp3 using Guid(e110baf4fd20c70459a9262ded2c25eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18ffd4c4ebef63f32d331c77d5baa5ab') in 0.048085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000577 seconds.
+  path: Assets/proyectoUni/Audios/Creditos.mp3
+  artifactKey: Guid(f957fcef62a24534eba5bd95995e3cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Audios/Creditos.mp3 using Guid(f957fcef62a24534eba5bd95995e3cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de1712496e5cb8398a8f98220f50c87') in 0.034686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000567 seconds.
+  path: Assets/proyectoUni/Audios/Misc-Computer-Games-Super-Mario-Galaxy-Good-Egg-Galaxy.mp3
+  artifactKey: Guid(4277adf2d897305498bc710c4e7b8bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Audios/Misc-Computer-Games-Super-Mario-Galaxy-Good-Egg-Galaxy.mp3 using Guid(4277adf2d897305498bc710c4e7b8bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38ab989f6020409b508e76e218b2c200') in 0.030190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.112947 seconds.
+  path: Assets/proyectoUni/Sprites 1
+  artifactKey: Guid(15ce762dd51dd044eaaea7a97f89650a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1 using Guid(15ce762dd51dd044eaaea7a97f89650a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2469683c99d03598dfa0c2514cfd7be') in 0.031900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.534430 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes
+  artifactKey: Guid(7ce2ba5308f6f434382e5b568d7cb0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes using Guid(7ce2ba5308f6f434382e5b568d7cb0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acdc85a8035a1ab46a6aec58f7331199') in 0.033085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.715607 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC
+  artifactKey: Guid(e48cee7cf038fc64d813945b0875bf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC using Guid(e48cee7cf038fc64d813945b0875bf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0413bad31889308285a46ae5defde935') in 0.032461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.707078 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/Niño/Faceset.png
+  artifactKey: Guid(ded68971a8ae4734ca18d1c8ac3b456f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/Niño/Faceset.png using Guid(ded68971a8ae4734ca18d1c8ac3b456f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e71fc9b7bab40879c0588c2deaf5f731') in 0.251646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000941 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/Niño
+  artifactKey: Guid(268a4c0ef5dc8d541a5196560d4a6ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/Niño using Guid(268a4c0ef5dc8d541a5196560d4a6ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2f8fc3aee042b14ecf3d00689f7443f') in 0.038425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000914 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/Niño/SpriteSheet.png
+  artifactKey: Guid(68a89675f4427d74da95024435493afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/Niño/SpriteSheet.png using Guid(68a89675f4427d74da95024435493afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e382df26625e81e287d0517ece8fb10') in 0.145732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.346955 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/Comerciante/Faceset.png
+  artifactKey: Guid(ff4c013580c2bdc44951f3dc4efdbeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/Comerciante/Faceset.png using Guid(ff4c013580c2bdc44951f3dc4efdbeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed89abc53069417c324414cf75a68957') in 0.077357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.847364 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/Inspector/Faceset.png
+  artifactKey: Guid(69f7e6388bd25fb40bf2b55334c6e317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/Inspector/Faceset.png using Guid(69f7e6388bd25fb40bf2b55334c6e317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa854ebbf8fafc5689faea650fdedfc4') in 0.068108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.173063 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/OldMan2/Faceset.png
+  artifactKey: Guid(4dfe4034ba5b4e547a01c51edbcd442a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/OldMan2/Faceset.png using Guid(4dfe4034ba5b4e547a01c51edbcd442a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e1f0f19baa3d0d3b06e2b776182cb02') in 0.065578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.850961 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/OldWoman/Faceset.png
+  artifactKey: Guid(9bb854bff578a9848bb5ab65bcacc7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/OldWoman/Faceset.png using Guid(9bb854bff578a9848bb5ab65bcacc7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f0eb69981c076069c7b643401de520') in 0.065009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000921 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/OldWoman/SpriteSheet.png
+  artifactKey: Guid(c11a4f9173d91584ea38dd9e44e13284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/OldWoman/SpriteSheet.png using Guid(c11a4f9173d91584ea38dd9e44e13284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531866d46bb23546a039be4d7fbcebb7') in 0.087069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.708008 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/Villager/Faceset.png
+  artifactKey: Guid(558416145d483444f9aed1f740c403db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/Villager/Faceset.png using Guid(558416145d483444f9aed1f740c403db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f48da27e93d7c25f8299a7695d3ed1d4') in 0.075951 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.645507 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/Villager3/Faceset.png
+  artifactKey: Guid(7fd0bd3c0a118fe408e43787f5c33aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/Villager3/Faceset.png using Guid(7fd0bd3c0a118fe408e43787f5c33aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e7bf6d58ce677858cde2ac6e9dd69b') in 0.064525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.396408 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/Villager4/Faceset.png
+  artifactKey: Guid(72b7fa761a6e85542bc5c75bcf7b4386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/Villager4/Faceset.png using Guid(72b7fa761a6e85542bc5c75bcf7b4386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9bf6296434d9735a404069b1b13b97b') in 0.079594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.004362 seconds.
+  path: Assets/proyectoUni/Sprites 1/Personajes/NPC/Woman/Faceset.png
+  artifactKey: Guid(50da7a89dd8129649b53dd4b6802b6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/proyectoUni/Sprites 1/Personajes/NPC/Woman/Faceset.png using Guid(50da7a89dd8129649b53dd4b6802b6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b09203f3ce030cfbeab84a8200ee34') in 0.067637 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
